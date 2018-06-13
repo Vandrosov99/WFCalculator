@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc_after", "WindowsFormsApp1\calc_after.csproj", "{881C48B5-7D46-4BB5-9771-39C457F37FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881C48B5-7D46-4BB5-9771-39C457F37FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881C48B5-7D46-4BB5-9771-39C457F37FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881C48B5-7D46-4BB5-9771-39C457F37FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881C48B5-7D46-4BB5-9771-39C457F37FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F49C9D-2752-48EE-B7EA-1C4DB0FEC234}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://maxnavr.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WindowsFormsApp1\\calc_after.csproj
+		SccProjectName1 = WindowsFormsApp1
+		SccLocalPath1 = WindowsFormsApp1
+	EndGlobalSection
+EndGlobal
