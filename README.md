@@ -1,0 +1,2 @@
+# WFCalculator
+mineCalc
